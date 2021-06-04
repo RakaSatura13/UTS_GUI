@@ -20,6 +20,6 @@ Setelah Di Hapus
 ![enter image description here](https://i.ibb.co/HN3zgvP/2-1.png)
 ## No.2
 ![https://i.ibb.co/37qZWPQ/nomer2.png](https://i.ibb.co/37qZWPQ/nomer2.png)
-karena codingan tersebut terdapat kesalahan indentasi pada line 21, agarberjalan dengan baik maka saya menghapusnya.
+## karena codingan tersebut terdapat kesalahan indentasi pada line 21, agarberjalan dengan baik maka saya menghapusnya.
 
 
